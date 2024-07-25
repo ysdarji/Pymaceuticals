@@ -1,7 +1,7 @@
 # Pymaceuticals
 
 # Observations
-1. 1. The correlation between mouse weight, and average tumor volume is 0.84. It is a strong positive correlation, when the mouse weight increases the average tumor volume also increases.
+1. The correlation between mouse weight, and average tumor volume is 0.84. It is a strong positive correlation, when the mouse weight increases the average tumor volume also increases.
 2. Mice treated with either Capomulin or Ramicane regimen have smaller final tumor volume, compared to those treated with either Infubinol or Ceftamin regimen.
 3. Capomulin seems to be an effective drug regimen to treat the cancer. The tumor size in mouse l509 decreased as time went on.
 
